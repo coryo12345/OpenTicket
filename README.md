@@ -1,2 +1,0 @@
-# OpenTicket
-Ticket Tracking
