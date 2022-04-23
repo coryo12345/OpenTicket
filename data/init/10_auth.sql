@@ -1,3 +1,4 @@
+-- columns will get added to this
 CREATE TABLE users (
     id SERIAL PRIMARY KEY,
     username TEXT,
